@@ -60,7 +60,7 @@ oportunidades para aplicar meus conhecimentos acadêmicos e desenvolver habilida
 
 ## 🔬 Projetos em Destaque
 
-**🗃️ [Página Web Sobre Sistemas Operacionais com Persistência de Dados](#)**  
+**🗃️ [SOul - Página Web Sobre Sistemas Operacionais com Persistência de Dados](https://github.com/ltcmnk/soul)**  
 Página que visa te ajudar a escolher seu Sistema Operacional ideal, desenvolvida em HTML, CSS, JavaScript, PHP, e Ollama, com armazenamento em banco de dados MySQL. Projeto criado e estruturado no VSCode.
 
 ---
