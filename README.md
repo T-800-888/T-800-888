@@ -4,8 +4,9 @@
 _Ciência da Computação_
 📍 Curitiba, PR
 
-[![Email](https://img.shields.io/badge/email-rayssagrafetti7@gmail.com-4B4453?style=flat-square&logo=gmail&logoColor=white)](mailto:rayssagrafetti7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rayssa_G._Grafetti-4B4453?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/rayssagrafetti/](https://www.linkedin.com/in/rayssa-g-grafetti-622107301))
+# Contatos: 
+[![Email](https://img.shields.io/badge/email-rayssagrafetti7@gmail.com-4B4453?style=flat-square&logo=gmail&logoColor=white)](rayssagrafetti7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rayssa_G._Grafetti-4B4453?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayssa-g-grafetti-622107301)
 [![GitHub](https://img.shields.io/badge/GitHub-T--800--888-4B4453?style=flat-square&logo=github&logoColor=white)](https://github.com/T-800-888)
 
 </div>
